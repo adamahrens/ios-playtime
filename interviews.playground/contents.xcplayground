@@ -3,5 +3,7 @@
     <pages>
         <page name='Unique'/>
         <page name='Permutations'/>
+        <page name='Collapse'/>
+        <page name='URLify'/>
     </pages>
 </playground>
